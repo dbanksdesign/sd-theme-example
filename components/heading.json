@@ -1,0 +1,8 @@
+{
+  "component": {
+    "heading": {
+      "color": { "value": "{theme.color.value}" },
+      "background-color": { "value": "{theme.background-color.value}" }
+    }
+  }
+}

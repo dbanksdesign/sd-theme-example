@@ -1,0 +1,6 @@
+{
+  "theme": {
+    "color": { "value": "{color.core.black.value}" },
+    "background-color": { "value": "{color.core.white.value}" }
+  }
+}
